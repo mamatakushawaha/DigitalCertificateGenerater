@@ -27,13 +27,14 @@
                     </div>
                      <div class="id">
                         <p>Duration</p>
-<!--                         <input class="fill" type="text" id="ftime"> -->
-                         <select id="ctime">
+                         <form name="dtime">
+                         <select id="ctime" onchange="getdtm()">
                              <option></option>
                              <option>45 Days</option>
                              <option>3 Month</option>
                              <option>6 Month</option>
                          </select>
+                             </form>
                     </div>
                     <button  id="btn" onclick="check()">Create your Certificate</button>
                    <div class="term">
@@ -61,7 +62,7 @@
         <p style="margin-top: 8px;">For Successfully Attending an Online Courese on </p>
             <!-- <br> -->
         <h3 id="course"></h3>
-        <h2>Duration: <i></i></h2>
+        <h5 id="cstime"></h5>
     </div>
 
     <div class="sign">
