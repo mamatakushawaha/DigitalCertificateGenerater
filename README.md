@@ -1,5 +1,5 @@
 # DigitalCertificateGenerater
-# Generate a digital Certificate:-
+Generate a digital Certificate:-
  A simple and intuitive Digital Certificate Generator built with HTML, CSS, and JavaScript. This tool allows users to generate personalized digital certificates quickly and easily. 
 #Technologies Used:- HTML: Structure of the web application. CSS: Styling the application to make it visually appealing. JavaScript: Adding interactivity and functionality to the application Customization.
 Template Design: Modify the certificate-template.
