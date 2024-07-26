@@ -1,4 +1,4 @@
-const inputBox=document.getElementById("input-box");
+const inputBox=document.getElementByTag("input");
 function check(){
     var input=document.getElementById('fname');
     if(input.value !=" "){
