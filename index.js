@@ -14,6 +14,8 @@ function ecertificate(){
     x.style.display="block";
     var cname=document.getElementById("fname").value;
     var courses=document.getElementById("fcourse").value;
+    var duration=document.getElementById("ftime").value;
     document.getElementsByTagName('B')[0].innerHTML=cname;
     document.getElementsByTagName('h3')[0].innerHTML=courses;
+    document.getElementsByTagName('i')[0].innerHTML=duration;
 }
