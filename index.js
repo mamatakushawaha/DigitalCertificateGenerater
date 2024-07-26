@@ -6,6 +6,7 @@ function check(){
     else{
         alert("input field empty");
     }
+     inputBox.value='';
 }
 function ecertificate(){
     var x= document.getElementById("main");
