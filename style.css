@@ -55,11 +55,11 @@ header{
     color: rgb(247, 8, 8);
 }
 h2{
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 25px;
 }
 p{
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 25px;
 }
 .fill{
@@ -82,7 +82,7 @@ SELECT{
 }
 
 #btn{
-    margin-top: 15px;
+    margin-top: 20px;
     background-color: rgb(105, 186, 218);
     width: 85%;
     height: 30px;
@@ -97,7 +97,7 @@ p a{
 }
 
 .medal{
-    margin-top: 10px;
+    margin-top: 15px;
     margin-left: 20px;
     margin-right: 20px;
     display: flex;
