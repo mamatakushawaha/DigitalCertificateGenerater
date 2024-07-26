@@ -16,7 +16,7 @@ body{
 .navbar{
     height: 200px;
     width: 350px;
-    margin-top: 150px;
+    margin-top: 130px;
 }
 header{
     display: flex;
@@ -82,7 +82,7 @@ SELECT{
 }
 
 #btn{
-    margin-top: 20px;
+    margin-top: 15px;
     background-color: rgb(105, 186, 218);
     width: 85%;
     height: 30px;
