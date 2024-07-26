@@ -1,4 +1,4 @@
-const inputBox=document.getElementByTag("input");
+
 function check(){
     var input=document.getElementById('fname');
     if(input.value !=" "){
@@ -7,7 +7,7 @@ function check(){
     else{
         alert("input field empty");
     }
-     inputBox.value='';
+
 }
 function ecertificate(){
     var x= document.getElementById("main");
