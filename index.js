@@ -19,5 +19,5 @@ function ecertificate(){
     
 }
 function getdtm(){
-    
+    document.getElementById('cstime').innerHTML=("Duration:<strong>"+dtmc.ctime[dtmc.ctime.selectedIndex].text+"<strong>");
 }
